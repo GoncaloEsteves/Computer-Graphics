@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/generator.dir/generator.cpp.o CMakeFiles/generator.dir/figuras.cpp.o CMakeFiles/generator.dir/Point.cpp.o  -o generator /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libglut.so 

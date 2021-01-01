@@ -1,0 +1,6 @@
+Summary:
+*Computing height at arbitrary points in a terrain
+*First person camera
+
+Assignment: 
+*Decorate the terrain from class 6 with the items from class 5; Implement a first person camera follwing the terrain height.

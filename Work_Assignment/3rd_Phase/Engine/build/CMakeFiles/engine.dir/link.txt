@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/engine.dir/engine.o CMakeFiles/engine.dir/tinyxml2.o CMakeFiles/engine.dir/Camera.o CMakeFiles/engine.dir/Group.o CMakeFiles/engine.dir/parser.o CMakeFiles/engine.dir/Point.o CMakeFiles/engine.dir/Shape.o CMakeFiles/engine.dir/Transformation.o  -o engine -lGLEW -lGL -lGLU -lglut 

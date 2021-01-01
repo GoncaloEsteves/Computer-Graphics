@@ -1,0 +1,5 @@
+<scene>
+  <models>
+     <model file="../../XMLs/sphere.3d"/>
+  </models>
+</scene>

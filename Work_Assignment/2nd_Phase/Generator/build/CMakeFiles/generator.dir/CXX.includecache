@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/Point.cpp
+Point.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/Point.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/Point.h
+math.h
+-
+string
+-
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/figuras.cpp
+figuras.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/figuras.h
+math.h
+-
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/figuras.h
+vector
+-
+Point.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/Point.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/generator.cpp
+generator.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/generator.h
+figuras.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/figuras.h
+iostream
+-
+fstream
+-
+string
+-
+string.h
+-
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/generator.h
+figuras.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Generator/figuras.h
+vector
+-
+string
+-
+

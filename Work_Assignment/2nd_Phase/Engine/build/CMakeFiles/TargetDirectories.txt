@@ -1,0 +1,3 @@
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Engine/build/CMakeFiles/rebuild_cache.dir
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Engine/build/CMakeFiles/engine.dir
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/2ºFase/Engine/build/CMakeFiles/edit_cache.dir

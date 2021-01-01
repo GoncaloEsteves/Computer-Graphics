@@ -1,0 +1,172 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Camera.cpp
+GLUT/glut.h
+-
+GL/glut.h
+-
+math.h
+-
+Camera.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Camera.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Camera.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Group.cpp
+Group.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Group.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Group.h
+vector
+-
+Transformation.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Transformation.h
+Shape.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Shape.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Point.cpp
+Point.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Point.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Point.h
+math.h
+-
+string
+-
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Shape.cpp
+Shape.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Shape.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Shape.h
+vector
+-
+GLUT/glut.h
+-
+GL/glew.h
+-
+GL/glut.h
+-
+Point.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Point.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Transformation.cpp
+Transformation.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Transformation.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Transformation.h
+string
+-
+vector
+-
+Point.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Point.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/engine.cpp
+stdlib.h
+-
+engine.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/engine.h
+tinyxml2.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/tinyxml2.h
+Point.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Point.h
+parser.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/parser.h
+Transformation.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Transformation.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/engine.h
+math.h
+-
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+Point.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Point.h
+Group.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Group.h
+Camera.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Camera.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/parser.cpp
+parser.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/parser.h
+Point.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Point.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/parser.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+tinyxml2.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/tinyxml2.h
+Point.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Point.h
+Group.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Group.h
+Shape.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/Shape.h
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/tinyxml2.cpp
+tinyxml2.h
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/tinyxml2.h
+new
+-
+stddef.h
+-
+stdarg.h
+-
+cstddef
+-
+cstdarg
+-
+
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/3ºFase/Engine/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+

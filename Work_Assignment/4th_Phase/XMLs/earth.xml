@@ -1,0 +1,52 @@
+<scene>
+      <lights>
+            <light type="POINT" posX="0" posY="0" posZ="0" diffR="1" diffG="1" diffB="1" />
+      </lights>
+      <group>
+            <group>
+                  <!-- Sol -->
+                  <scale X="3.6" Y="3.6" Z="3.6" />
+                  <rotate time="30" Y="1" />
+                  <models>
+                        <model file="sphere.3d" texture="../../Textures/sun.jpg" emiR="0.8" emiG="0.8" emiB="0.8" />
+                  </models>
+            </group>
+            <group>
+                  <!-- Mercurio -->
+                  <translate time="10" >
+                        <point X="25.000000" Y="0.000000" Z="0.000000" />
+                        <point X="23.096989" Y="0.000000" Z="9.567086" />
+                        <point X="17.677670" Y="0.000000" Z="17.677670" />
+                        <point X="9.567086" Y="0.000000" Z="23.096989" />
+                        <point X="0.000000" Y="0.000000" Z="25.000000" />
+                        <point X="-9.567086" Y="0.000000" Z="23.096989" />
+                        <point X="-17.677670" Y="0.000000" Z="17.677670" />
+                        <point X="-23.096989" Y="0.000000" Z="9.567086" />
+                        <point X="-25.000000" Y="0.000000" Z="0.000000" />
+                        <point X="-23.096989" Y="0.000000" Z="-9.567086" />
+                        <point X="-17.677670" Y="0.000000" Z="-17.677670" />
+                        <point X="-9.567086" Y="0.000000" Z="-23.096989" />
+                        <point X="-0.000000" Y="0.000000" Z="-25.000000" />
+                        <point X="9.567086" Y="0.000000" Z="-23.096989" />
+                        <point X="17.677670" Y="0.000000" Z="-17.677670" />
+                        <point X="23.096989" Y="0.000000" Z="-9.567086" />
+                  </translate>
+                  <scale X="1" Y="1" Z="1" />
+                  <rotate time="10" Y="1" />
+                  <models>
+                        <model file="sphere.3d" texture="../../Textures/earth.jpg"/>
+                  </models>
+		  <group>
+                  <!-- Mercurio -->
+                  <translate time="10" >
+                        <point X="6.000000" Y="2.000000" Z="0.000000" />
+                  </translate>
+                  <scale X="0.25" Y="0.25" Z="0.25" />
+                  <rotate time="10" Y="1" />
+                  <models>
+                        <model file="sphere.3d" texture="../../Textures/mercury.jpg"/>
+                  </models>
+            </group>
+            </group>
+	</group>
+</scene>

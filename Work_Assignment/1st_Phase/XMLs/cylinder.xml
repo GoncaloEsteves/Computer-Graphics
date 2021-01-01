@@ -1,0 +1,5 @@
+<scene>
+  <models>
+     <model file="../../XMLs/cylinder.3d"/>
+  </models>
+</scene>

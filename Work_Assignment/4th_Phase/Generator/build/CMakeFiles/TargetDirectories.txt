@@ -1,0 +1,3 @@
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/4ºFase/Generator/build/CMakeFiles/rebuild_cache.dir
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/4ºFase/Generator/build/CMakeFiles/generator.dir
+/home/goncalo/Área de Trabalho/3ºAno/2ºSemestre/CG/Trabalho/CG/Trabalho/4ºFase/Generator/build/CMakeFiles/edit_cache.dir

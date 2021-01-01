@@ -1,0 +1,48 @@
+<scene>
+	<group>
+                  <!-- Jupiter -->
+                  <scale X="1.5" Y="1.5" Z="1.5" />
+                  <rotate time="10" X="0" Y="1" Z="0" />
+		  <colour R="0.82" G="0.71" B="0.55" /> 
+                  <models>
+                        <model file="sphere.3d" />
+                  </models>
+                  <group>
+                        <!-- Ganimedes -->
+                        <scale X="0.35" Y="0.35" Z="0.35" />
+                        <translate X="6" Y="6" Z="13" />
+			<rotate time="10" X="1" Y="0" Z="0" />
+			<colour R="0.66" G="0.66" B="0.66" />
+                        <models>
+                              <model file="sphere.3d" />
+                        </models>
+                  </group>
+                  <group>
+                        <!-- Calisto  -->
+                        <scale X="0.2" Y="0.2" Z="0.2" />  
+                        <translate X="-10" Y="10" Z="15" />
+			<colour R="0.5" G="0.5" B="0.5" />
+                        <models>
+                              <model file="sphere.3d" />
+                        </models>
+                  </group>
+                  <group>
+                        <!-- Io  -->
+                        <scale X="0.15" Y="0.15" Z="0.15" />  
+                        <translate X="-5" Y="12" Z="-35" />
+			<colour R="0.96" G="0.77" B="0.19" />
+                        <models>
+                              <model file="sphere.3d" />
+                        </models>
+                  </group>
+                  <group>
+                        <!-- Europa  -->
+                        <scale X="0.25" Y="0.25" Z="0.25" />  
+                        <translate X="-9" Y="10" Z="-20" />
+			<colour R="0.74" G="0.72" B="0.42" />
+                        <models>
+                              <model file="sphere.3d" />
+                        </models>
+                  </group>
+            </group>
+</scene>

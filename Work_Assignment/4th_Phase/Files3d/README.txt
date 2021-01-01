@@ -1,0 +1,1 @@
+Ficheiros output provenientes do generator.
